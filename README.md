@@ -26,4 +26,5 @@
   5. 熟悉至少一种关系型数据库与非关系型数据库；
   6. 三年以上实际项目开发经验
  
-email: xiamengru@qiniu.com 欢迎勾搭
+email: xiamengru@qiniu.com 
+欢迎勾搭，优秀应届生也可以尝试啦~
